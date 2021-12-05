@@ -1,0 +1,2 @@
+The simplest example of a lex file, copies stdin to stdout
+lex ex1.l
